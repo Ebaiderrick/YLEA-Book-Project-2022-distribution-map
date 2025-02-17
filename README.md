@@ -1,4 +1,4 @@
-# YLEA-Book-Project-2022-distribution-map
+# YLEA-Book-Project-2024-distribution-map
 This project visualizes the distribution points of books donated by the YLEA Book Project for 2024 across various schools in Cameroon. The interactive map highlights the locations of schools and the number of books distributed.
 
 The project is designed for reporting and interactive mapping on the YLEA website/
